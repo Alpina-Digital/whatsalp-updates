@@ -3,7 +3,7 @@
   "slug": "whatsalp",
   "version": "1.0.0",
   "download_url": "https://alpina-digital.github.io/whatsalp-updates/whatsalp-1.0.0.zip",
-  "sha256": "731a889b559c32b4b7c9e4144153be3ae59a90489c2c78ae680a4bd180dc4e4b",
+  "sha256": "b39611337ab66e5a1962d1c570c62f9952d105e373fe10ffb9aafe787e6f5b66",
   "requires": "6.0",
   "tested": "7.1",
   "requires_php": "8.0",
