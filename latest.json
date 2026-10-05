@@ -1,9 +1,9 @@
 {
   "name": "WhatsAlp",
   "slug": "whatsalp",
-  "version": "1.4.0",
-  "download_url": "https://alpina-digital.github.io/whatsalp-updates/whatsalp-1.4.0.zip",
-  "sha256": "36b23e6a2825879cefc3c288d669f2d5cc0e17b2b6fa125000c455a8c1a9d33d",
+  "version": "1.4.1",
+  "download_url": "https://alpina-digital.github.io/whatsalp-updates/whatsalp-1.4.1.zip",
+  "sha256": "fad70311239fd3af8ec3a2bf106034b67c455d6c9634b628f3eaa7dc32e136d7",
   "requires": "6.0",
   "tested": "7.1",
   "requires_php": "8.0",
@@ -12,6 +12,6 @@
   "homepage": "https://alpina.digital/whatsalp",
   "sections": {
     "description": "Botão de WhatsApp com captura de leads e integração com CRM.",
-    "changelog": "<h4>1.4.0</h4><ul><li>Veja readme.txt</li></ul>"
+    "changelog": "<h4>1.4.1</h4><ul><li>Veja readme.txt</li></ul>"
   }
 }
